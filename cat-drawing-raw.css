@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
 
 body {
-    background: url(''https://iili.io/fJghrTF.jpg') no-     repeat center center fixed !important;
+    background: url('https://iili.io/fJiGerx.jpg') no-repeat center center fixed !important;
     color: none !important;
     background-size: cover !important;
     }
@@ -46,8 +46,8 @@ div.container.main {
 .navbar li a:hover {
     background: none !important;
     color: #C7AC8F !important;
-    border: 0 0 10px #C7AC8F, 0 0 20px #C7AC8F, 0 0         40px #C7AC8F;
-    text-shadow: 0 0 5px #C7AC8F, 0 0 10px                  #C7AC8F, 0 0 20px #C7AC8F;
+    border: 0 0 10px #C7AC8F, 0 0 20px #C7AC8F, 0 0 40px #C7AC8F;
+    text-shadow: 0 0 5px #C7AC8F, 0 0 10px #C7AC8F, 0 0 20px #C7AC8F;
     transition: 0.8s !important;
     }
 
@@ -103,9 +103,8 @@ div.container.main {
     }
 
 .progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
-    background: #E6D9CB
-C7AC8F
- !important;
+    background: #E6D9CB !important;
+    color: #C7AC8F !important;
     }
 
 .s-chat-messsage:nth-child(even) {
@@ -151,7 +150,7 @@ div#chatMessagePinned {
 h1 {
     text-align: center !important;
     color: #DFD4C6 !important;
-    font-family:'Delius';
+    font-family: 'Delius';
     }
 
 h3 {
@@ -192,19 +191,19 @@ td.right_odd {
     }
 
 .cave-grid:hover, .mound-grid:hover {
-    border: 0 0 10px #C7AC8F, 0 0 20px #C7AC8F,     0 0 40px #C7AC8F;
-    text-shadow: 0 0 5px #C7AC8F, 0 0 10px              #C7AC8F, 0 0 20px #C7AC8F;
+    border: 0 0 10px #C7AC8F, 0 0 20px #C7AC8F, 0 0 40px #C7AC8F;
+    text-shadow: 0 0 5px #C7AC8F, 0 0 10px #C7AC8F, 0 0 20px #C7AC8F;
     transition: 0.8s !important;
     }
 
 div.cave-grid>img {
-    content: url('https://iili.io/fJgtx44.png') !important;
+    content: url('https://iili.io/fJijo1n.png') !important;
     width: 100% !important;
     height: 100% !important;
     }
 
 div.mound-grid>img {
-    content: url('https://iili.io/fJgtS8N.png') !important;
+    content: url('https://iili.io/fJie24t.png') !important;
     width: 100% !important;
     height: 100% !important;
     }
@@ -215,7 +214,7 @@ a:link, a:visited, topbar a:link, topbar a:visited {
 
 a:hover, topbar a:hover {
     color: #C7AC8F !important;
-    text-shadow: 0 0 5px #C7AC8F, 0 0 10px #C7AC8F, 0 0     20px #C7AC8F !important;
+    text-shadow: 0 0 5px #C7AC8F, 0 0 10px #C7AC8F, 0 0 20px #C7AC8F !important;
     transition: 0.8s !important;
     }
 
