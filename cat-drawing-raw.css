@@ -64,6 +64,14 @@ div.container.main {
     border-radius: 15px !important;
     }
 
+.breadcrumb::after {
+content: "CSS by Blub-Blub (#519615)";
+position: absolute;
+right: 20%;
+z-index: 100;
+color: #DFD4C6;
+}
+
 .feature {
     background: #574E46 !important;
     color: #DFD4C6 !important;
@@ -99,7 +107,7 @@ div.container.main {
     }
 
 .progress div {
-    color: #E6D9CB !important;
+    color: #000000 !important;
     }
 
 .progress-bar-warning, .progress-bar-danger, .progress-bar-success, .progress-bar {
@@ -109,41 +117,41 @@ div.container.main {
 
 .s-chat-messsage:nth-child(even) {
     background: #574E46 !important;
-    color: #DFD4C6 !important;
+    color: #000000 !important;
     border: 1px dashed #C7AC8F !important;
     }
 
 .s-chat-message:nth-child(odd) {
-    background: #B2A998 !important;
-    color: #DFD4C6 !important;
+    background: #574E46 !important;
+    color: #000000 !important;
     border: 1px dashed #C7AC8F !important;
     }
 
 .s-chat-message_timestamp {
-    color: #DFD4C6 !important;
+    color: #000000 !important;
     }
 
 #chatMessageContainer {
     background: #574E46 !important;
-    color: #DFD4C6 !important;
+    color: #000000 !important;
     border: none !important;
     }
 
 button#label_currentChannel {
     background: #574E46 !important;
-    color: #DFD4C6 !important;
+    color: #000000 !important;
     border: none !important;
     }
 
 .s-chat-message_content {
     background: none !important;
-    color: #DFD4C6 !important;
+    color: #000000 !important;
     border: none !important;
     }
 
 div#chatMessagePinned {
     background: #574E46 !important;
-    color: #DFD4C6 !important;
+    color: #000000 !important;
     border: 1px solid #C7AC8F !important;
     }
 
